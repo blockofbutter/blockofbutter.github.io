@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- seal head, filling the icon (no background) -->
+  <ellipse cx="32" cy="33" rx="28" ry="27" fill="#828fa3"/>
+  <!-- lighter muzzle -->
+  <ellipse cx="32" cy="44" rx="16" ry="13" fill="#cbd5e1"/>
+  <!-- eyes -->
+  <circle cx="21" cy="27" r="5.4" fill="#1e293b"/>
+  <circle cx="43" cy="27" r="5.4" fill="#1e293b"/>
+  <circle cx="23" cy="25" r="1.7" fill="#fff"/>
+  <circle cx="45" cy="25" r="1.7" fill="#fff"/>
+  <!-- nose -->
+  <ellipse cx="32" cy="40" rx="4.2" ry="3" fill="#1e293b"/>
+  <!-- mouth -->
+  <path d="M32 43.5 q-5 5 -10 1.5 M32 43.5 q5 5 10 1.5" stroke="#475569" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  <!-- whiskers -->
+  <g stroke="#5b6675" stroke-width="1.8" stroke-linecap="round">
+    <line x1="18" y1="42" x2="5" y2="40"/>
+    <line x1="18" y1="46" x2="5" y2="48"/>
+    <line x1="46" y1="42" x2="59" y2="40"/>
+    <line x1="46" y1="46" x2="59" y2="48"/>
+  </g>
+</svg>
